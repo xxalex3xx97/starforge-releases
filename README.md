@@ -24,25 +24,25 @@ An idle factory game for Windows. Start with a single click on a core, grow it i
 
 Buy land to push the map outward and keep building. Belts, splitters, mergers, underground tunnels, storage crates, bundlers and ratio gates all have a job.
 
-<img src="img/hero.webp" alt="A dense Starforge factory grid" width="720">
+<img src="img/grid.gif" alt="A dense Starforge factory grid" width="800">
 
 ## A skill tree that makes you choose
 
 Seven tabs of nodes. Some come in exclusive OR pairs: pick one and the other is gone until you prestige.
 
-<img src="img/skills.webp" alt="The Logistics tab of the skill tree" width="720">
+<img src="img/skills.gif" alt="The Logistics tab of the skill tree" width="800">
 
 ## Finish the Dyson Sphere
 
 Eight stages: Frame, Panels, Collectors, Power Core, Containment, Shield Lattice, Reactor Ring, Sphere Activation.
 
-<img src="img/dyson.webp" alt="The Dyson Sphere panel" width="560">
+<img src="img/dyson.gif" alt="The Dyson Sphere panel" width="800">
 
 ## It keeps working while you don't
 
 Your factory keeps earning while the game is closed, for up to eight hours.
 
-<img src="img/away.webp" alt="The Welcome back dialog" width="560">
+<img src="img/away.gif" alt="The Welcome back dialog" width="800">
 
 ## Install
 
